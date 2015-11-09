@@ -3,7 +3,7 @@
 	"shortName": "Blocky Rounder",
 	"longName": "Blocky Rounder",
 	"companyName": "Willdorf",
-	"versionLabel": "1.0",
+	"versionLabel": "1.1",
 	"sdkVersion": "3",
 	"targetPlatforms": ["basalt"],
 	"watchapp": {
